@@ -8,7 +8,7 @@ setup(
     author_email='drgfreeman@tuta.io',
     url='https://github.com/DrGFreeman/IFTTT-Webhook',
     license='MIT',
-    python_requires='>=3.6',
+    python_requires='^3.6',
     install_requires=['requests'],
     packages=find_packages(),
 )
